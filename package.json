@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/DianGigrich/Portfolio-Generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.4",
-    "js": "^0.1.0"
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
   }
 }
